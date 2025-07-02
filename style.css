@@ -1,0 +1,29 @@
+body {
+    background-image: url(images/i.webp);
+    background-attachment: fixed;
+    
+    font-family: "Trebuchet MS";
+    text-align: center;
+}
+
+.myPhoto {
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+
+ .connect {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+
+#lng {
+    text-align: right;
+}
+
+#main {
+    
+}
